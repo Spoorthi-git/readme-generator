@@ -1,0 +1,29 @@
+{
+  "history": [
+    {
+      "input": "happy",
+      "detected_moods": [
+        "happy"
+      ],
+      "timestamp": "2025-10-19T20:06:57.934688"
+    }
+  ],
+  "favorites": {
+    "happy": [
+      {
+        "name": "Parkview Hotel",
+        "tags": {
+          "amenity": "restaurant",
+          "name": "Parkview Hotel",
+          "name:kn": "\u0caa\u0cbe\u0cb0\u0ccd\u0c95\u0ccd\u200c\u0cb5\u0cc0\u0cb5\u0ccd \u0cb9\u0ccb\u0c9f\u0cc6\u0cb2\u0ccd"
+        }
+      }
+    ]
+  },
+  "mood_usage": {
+    "happy": 1
+  },
+  "place_usage": {
+    "Parkview Hotel": 1
+  }
+}
